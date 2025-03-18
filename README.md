@@ -1,7 +1,7 @@
 # RAG-Test
 
 
-'''FAISS 方法
+## FAISS 方法
 
 ***RAG-Test-KB.ipynb：*** 配合 rag-test-KB.json 文件，json 文件为一条一条的 Knowledge。
 
